@@ -82,6 +82,7 @@ People to follow:
 * [Crystal Preston-Watson](https://twitter.com/ScopicEngineer), Quality and Accessibility Engineer
 * [Marcy Sutton](https://twitter.com/marcysutton), independent web developer and accessibility advocate
 * [Eric Bailey](https://twitter.com/ericwbailey), part of The A11y Project
-* [Eric Eggert](https://twitter.com/yatil), Director of Accessibility Services at Knowbility 
+* [Eric Eggert](https://twitter.com/yatil), Director of Accessibility Services at Knowbility
+* [Christina Papadimitriou](https://twitter.com/christinapap), Accessibility Specialist/Senior Digital Expert @Atos and creator of the introduction to A11y / accessibility slides
 
 **HAPPY HACKING**
