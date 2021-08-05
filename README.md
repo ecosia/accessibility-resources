@@ -10,8 +10,8 @@ All the documents, links and resources you will find here have been shared and u
 
 ## Organization of the folder
 * A folder with essential design for accessibility principles, shown as image. Very clear to understand!
-* An introduction to A11y / accessibility presented by [Christina Papadimitriou](https://twitter.com/christinapap) for [WomenTechMakers Berlin](https://wtmberlin.com/)
 * This README with a list of resources
+* A short presentation of Accessibility at 🌳Ecosia🌳
 
 ## More general educational resources around A11y
 The following links are food for thoughts, to give you more perspectives on the importance of accessibility
@@ -83,6 +83,6 @@ People to follow:
 * [Marcy Sutton](https://twitter.com/marcysutton), independent web developer and accessibility advocate
 * [Eric Bailey](https://twitter.com/ericwbailey), part of The A11y Project
 * [Eric Eggert](https://twitter.com/yatil), Director of Accessibility Services at Knowbility
-* [Christina Papadimitriou](https://twitter.com/christinapap), Accessibility Specialist/Senior Digital Expert @Atos and creator of the introduction to A11y / accessibility slides
+* [Christina Papadimitriou](https://twitter.com/christinapap), Accessibility Specialist/Senior Digital Expert @Atos
 
 **HAPPY HACKING**
