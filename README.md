@@ -26,6 +26,7 @@ The following links are food for thoughts, to give you more perspectives on the 
 * Resources specific to Devs: [https://www.w3.org/WAI/roles/developers/](https://www.w3.org/WAI/roles/developers/)
 * Resources specific to testing: [https://www.w3.org/WAI/roles/testers/](https://www.w3.org/WAI/roles/testers/)
 * **GREAT** list on Github around A11y [Awesome A11y](https://github.com/brunopulis/awesome-a11y) 
+* [Open source guides and playbooks](https://accessibility.civicactions.com/)
 
 
 # INCLUSIVE DESIGN RESOURCES
